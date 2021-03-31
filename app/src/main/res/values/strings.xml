@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="size_of_board">3</string>
+    <string name="X">" X "</string>
+    <string name="O">" O "</string>
+    <string name="none">" "</string>
+    <string name="about">Hello Students ,
+        We provide best app services for our users for their enjoyment and entertainment.
+    </string>
+    <string name="us">
+        Your reviews and comments in the Play Store have been motivating Tic Tac Toe for long. Please continue doing so as we have many possibilities to explore together!
+    </string>
+</resources>
